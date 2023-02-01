@@ -13,5 +13,10 @@
   2. Item Two
   3. Item Three
 
-
+```javascript 
+function whatToDoForLunch(hungry, available) {
+  console.log("hungry is", hungry);
+  console.log("availableTime is", availableTime);
+}
+```
 
